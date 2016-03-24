@@ -1,4 +1,4 @@
-FROM vektorlab/base:latest
+FROM quay.io/vektorcloud/base:latest
 
 RUN apk --no-cache add openjdk7-jre bash wget curl ttf-dejavu openssh
 
