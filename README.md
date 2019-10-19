@@ -1,6 +1,6 @@
 # jenkins
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/jenkins)
 
 Alpine-base Jenkins image
 
